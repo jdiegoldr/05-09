@@ -1,0 +1,11 @@
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\03-09.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\WindowsApplication5.Form1.resources
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\03-09.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\bin\Debug\WindowsApplication5.exe
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\bin\Debug\WindowsApplication5.pdb
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\bin\Debug\WindowsApplication5.xml
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\WindowsApplication5.exe
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\WindowsApplication5.xml
+C:\Users\Alumno\Downloads\03-09-master\03-09-master\obj\Debug\WindowsApplication5.pdb
